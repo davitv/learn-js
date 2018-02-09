@@ -1,0 +1,5 @@
+node_modules
+.sass-cache
+.DS_Store
+static/js/app-compiled.js
+static/css/*
